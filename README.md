@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lem0421
 - 👀 I’m interested in programmation and security
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html,js
 - 💞️ I’m looking to collaborate on cobol,cics,jcl
 
 
